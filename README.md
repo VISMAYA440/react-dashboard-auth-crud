@@ -1,8 +1,4 @@
-# jwt-express-react-example
 
-A two part example application with a frontend and backend.
-
-Try it out at: http://jwt-express-react-example.trina.si/
 
 
 ## Functionality
